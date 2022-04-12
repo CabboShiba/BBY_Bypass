@@ -1,0 +1,11 @@
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.csproj.AssemblyReference.cache
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.csproj.SuggestedBindingRedirects.cache
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\bin\Debug\BBY_Bypass.exe.config
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\bin\Debug\BBY_Bypass.exe
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\bin\Debug\BBY_Bypass.pdb
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.csproj.CopyComplete
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.exe
+C:\Users\Utente\Desktop\BBY_Bypass\BBY_Bypass\obj\Debug\BBY_Bypass.pdb
