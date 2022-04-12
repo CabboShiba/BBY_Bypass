@@ -40,6 +40,9 @@ namespace BBY_Bypass
                     else
                     {
                     }
+                }
+                foreach (string Token in lines)
+                {
                     string result = DiscordClient.GetDiscordBot(Token);
                     if (result != "N/A")
                     {
